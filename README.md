@@ -1,5 +1,12 @@
 # PruebaTecnicaSiscomputo
 
+This project is a technical test for an offer job.
+
+Node.js versio: 20.19.3
+Angular version: 20.0.3
+NPM version: 10.8.2
+NVM version: 1.1.12
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.3.
 
 ## Development server
